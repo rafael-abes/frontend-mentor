@@ -98,6 +98,10 @@ img {
     
 }
 
+#title:hover {
+    color: hsl(47, 88%, 63%)
+  }
+
 .description {
     width: 336px;
     color: #6B6B6B;
